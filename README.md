@@ -3,9 +3,9 @@
 The Project is written in CPP <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 Advanced Programming  project by Amit Hazan and Simon Fraiberg
 to compile follow this simple steps:
-1. download the project files by pressing in the main reposetory page on the arrow in the green button "code" then press download zip.
+1. clone the project.
 2. extract the zip to a folder.
-3. open your terminal in the folder destination using dc command.
+3. open your terminal in the folder destination using cd command.
 4. run the "make" command on the planet server to compile.
 now you have the server.out file and client.out file.
 first run the server. the command is ./server.out [port].
